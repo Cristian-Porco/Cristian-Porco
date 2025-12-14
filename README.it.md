@@ -45,10 +45,6 @@ Lavoro su progetti software reali, contribuendo allo sviluppo e all’integrazio
 
 ## 📊 Statistiche GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Porco&show_icons=true" alt="Statistiche GitHub" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Porco&layout=compact" alt="Linguaggi più usati" />
 </p>
 
