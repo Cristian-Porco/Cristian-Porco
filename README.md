@@ -19,9 +19,9 @@ I actively use GitHub to experiment, learn, and share code, working on projects 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** JavaScript, C++, Python
-- **Web:** HTML, CSS, REST APIs
-- **Backend & Tools:** Node.js, Git, Linux
+- **Languages:** C, C++, C#, Java, JavaScript, PHP, Python, Visual Basic, Perl
+- **Web:** HTML, CSS, REST APIs, Django, FastAPI
+- **Backend & Tools:** Node.js, Git, Linux, SQL
 - **Interests:** Cyber Security, Cloud Computing, IoT, Software Architecture
 
 ---
