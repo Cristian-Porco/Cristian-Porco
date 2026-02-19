@@ -20,7 +20,7 @@ Utilizzo GitHub come spazio di crescita tecnica e sperimentazione, lavorando su 
 
 ## 🛠️ Competenze Tecniche
 - **Linguaggi:** C, C++, C#, Java, JavaScript, PHP, Python, Visual Basic, Perl
-- **Web:** HTML, CSS, REST API, Django, FastAPI
+- **Web:** HTML, CSS, Bootstrap, Tailwind, REST API, Django, FastAPI
 - **Backend & Tool:** Node.js, Git, Linux, SQL
 - **Interessi:** Cyber Security, Cloud Computing, IoT, Architettura Software
 
